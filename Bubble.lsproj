@@ -3,7 +3,7 @@
     "document_id": "xoNymDwe12cwoYkiWrVc",
     "original_document_id": "xoNymDwe12cwoYkiWrVc",
     "version": "29",
-    "lastChanged": "1665454216943",
+    "lastChanged": "1665460701627",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -54,6 +54,64 @@
                         "Specular"
                     ],
                     [
+                        "Hand Physics Resources",
+                        "Data",
+                        "Left Hand Tracking Asset"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Data",
+                        "Right Hand Tracking Asset"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Fonts",
+                        "jellee_roman"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Materials",
+                        "Occluder"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Models",
+                        "LeftHandMesh"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Models",
+                        "RightHandMesh"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Models",
+                        "Unit Box"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Scripts",
+                        "HandTracking"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Scripts",
+                        "HintTextUI"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Scripts",
+                        "RainOfObjects"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Scripts",
+                        "ToggleColliderVisibility"
+                    ],
+                    [
+                        "Hand_Physics__PUT_UNDER_MAIN_CAM"
+                    ],
+                    [
                         "Materials",
                         "Refraction"
                     ],
@@ -89,29 +147,32 @@
                         "Sphere"
                     ],
                     [
-                        "Textures"
+                        "Textures",
+                        "White"
                     ],
                     [
                         "Textures",
-                        "White"
+                        "clipart1555590"
                     ]
                 ]
             ]
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1665460683979311:629715"
+                ]
             ],
             "selectionSetList": ""
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_hash": "7a71b18ed3b9b0a70f21e299f0c26e4c",
             "icon_path": "icon.png",
             "hints": [
                 ""
             ],
             "lens": "Bubble",
-            "applicability": "2",
+            "applicability": "3",
             "lens_descriptors": "",
             "Spectacles2021UseAllowed": "false"
         },
@@ -320,7 +381,7 @@
             }
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1664787262612336:183617"
+            "active_graph_asset": "1665460596933041:624966"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -469,12 +530,132 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "35",
-                    "uid": "1664924167521494:229452",
+                    "resId": "36",
+                    "uid": "1665460460140498:612179",
                     "name": "bubble",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1665460507537423:616928",
+                    "name": "Files\/File42.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1665460596566395:624795",
+                    "name": "sceneObject_1",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1665460596702021:624912",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1665460596702016:624911",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1665460596706207:624921",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1665460596706200:624920",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1665460596722777:624929",
+                    "name": "Files\/File48.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1665460596767178:624941",
+                    "name": "Files\/File49.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1665460596894433:624954",
+                    "name": "Files\/File51.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1665460596933041:624966",
+                    "name": "Files\/File53",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1665460597123945:624986",
+                    "name": "Files\/File55.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1665460597138387:624996",
+                    "name": "Files\/File57.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1665460597151110:625007",
+                    "name": "Files\/File58.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1665460597167993:625016",
+                    "name": "Files\/File59.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1665460597192686:625025",
+                    "name": "Files\/File60.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -504,7 +685,83 @@
                 "3": "1664786983261834:159428",
                 "4": "1664789982871341:423615",
                 "5": "1664867442156427:13364",
-                "6": "1664922174683404:14905"
+                "6": "1665460683979311:629715",
+                "7": "1665460683980163:629741",
+                "8": "1665460683980874:629748",
+                "9": "1665460683982109:629759",
+                "10": "1665460683982588:629763",
+                "11": "1665460683982802:629765",
+                "12": "1665460683983013:629767",
+                "13": "1665460683983233:629769",
+                "14": "1665460683983453:629771",
+                "15": "1665460683983662:629773",
+                "16": "1665460683983875:629775",
+                "17": "1665460683984087:629777",
+                "18": "1665460683986278:629785",
+                "19": "1665460683986563:629787",
+                "20": "1665460683986791:629789",
+                "21": "1665460683987006:629791",
+                "22": "1665460683987227:629793",
+                "23": "1665460683987444:629795",
+                "24": "1665460683989531:629803",
+                "25": "1665460683989798:629805",
+                "26": "1665460683990012:629807",
+                "27": "1665460683990231:629809",
+                "28": "1665460683990456:629811",
+                "29": "1665460683990663:629813",
+                "30": "1665460683992908:629823",
+                "31": "1665460683993190:629825",
+                "32": "1665460683993416:629827",
+                "33": "1665460683993634:629829",
+                "34": "1665460683993846:629831",
+                "35": "1665460683994062:629833",
+                "36": "1665460683996240:629841",
+                "37": "1665460683996480:629843",
+                "38": "1665460683996695:629845",
+                "39": "1665460683996918:629847",
+                "40": "1665460683997131:629849",
+                "41": "1665460683997343:629851",
+                "42": "1665460684000184:629861",
+                "43": "1665460684002930:629887",
+                "44": "1665460684003875:629898",
+                "45": "1665460684004345:629902",
+                "46": "1665460684004574:629904",
+                "47": "1665460684004791:629906",
+                "48": "1665460684005000:629908",
+                "49": "1665460684005226:629910",
+                "50": "1665460684005439:629912",
+                "51": "1665460684005718:629914",
+                "52": "1665460684005956:629916",
+                "53": "1665460684008232:629924",
+                "54": "1665460684008471:629926",
+                "55": "1665460684008697:629928",
+                "56": "1665460684008908:629930",
+                "57": "1665460684009120:629932",
+                "58": "1665460684009327:629934",
+                "59": "1665460684011485:629942",
+                "60": "1665460684011720:629944",
+                "61": "1665460684011934:629946",
+                "62": "1665460684012143:629948",
+                "63": "1665460684012359:629950",
+                "64": "1665460684012571:629952",
+                "65": "1665460684014741:629960",
+                "66": "1665460684014973:629962",
+                "67": "1665460684015190:629964",
+                "68": "1665460684015406:629966",
+                "69": "1665460684015638:629968",
+                "70": "1665460684015845:629970",
+                "71": "1665460684018052:629978",
+                "72": "1665460684018284:629980",
+                "73": "1665460684018524:629982",
+                "74": "1665460684018748:629984",
+                "75": "1665460684018965:629986",
+                "76": "1665460684019178:629988",
+                "77": "1665460684022312:629998",
+                "78": "1665460684025889:630027",
+                "79": "1665460684026129:630029",
+                "80": "1665460684034768:630140",
+                "81": "1665460684036146:630146",
+                "82": "1665460684036729:630154"
             }
         },
         "LayerComponent": {
@@ -608,12 +865,88 @@
                     "v": "Files\/File29.wav"
                 },
                 {
-                    "k": "39",
-                    "v": "Files\/File39.oprfb"
+                    "k": "41",
+                    "v": "Files\/File41.oprfb"
                 },
                 {
-                    "k": "40",
-                    "v": "Files\/File40.oprfb"
+                    "k": "42",
+                    "v": "Files\/File42.pvr"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.png"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.pvr"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.oprfb"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.oprfb"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.js"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.mesh"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.mesh"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.mesh"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.mesh"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.lsmat"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.mesh"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.mesh"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.js"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.js"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.ttf"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.js"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.oprfb"
                 }
             ]
         },
@@ -701,8 +1034,76 @@
                         "v": "Audio\/pop.wav"
                     },
                     {
-                        "k": "29618",
+                        "k": "29661",
+                        "v": "Hand Physics Resources"
+                    },
+                    {
+                        "k": "29662",
+                        "v": "Hand Physics Resources\/Data"
+                    },
+                    {
+                        "k": "29663",
+                        "v": "Hand Physics Resources\/Fonts"
+                    },
+                    {
+                        "k": "29664",
+                        "v": "Hand Physics Resources\/Materials"
+                    },
+                    {
+                        "k": "29665",
+                        "v": "Hand Physics Resources\/Models"
+                    },
+                    {
+                        "k": "29666",
+                        "v": "Hand Physics Resources\/Scripts"
+                    },
+                    {
+                        "k": "29667",
                         "v": "Prefabs\/bubble.oprfb"
+                    },
+                    {
+                        "k": "29668",
+                        "v": "Textures\/clipart1555590.png"
+                    },
+                    {
+                        "k": "29669",
+                        "v": "Hand Physics Resources\/Scripts\/HandTracking.js"
+                    },
+                    {
+                        "k": "29670",
+                        "v": "Hand Physics Resources\/Models\/RightHandMesh.mesh"
+                    },
+                    {
+                        "k": "29671",
+                        "v": "Hand Physics Resources\/Models\/LeftHandMesh.mesh"
+                    },
+                    {
+                        "k": "29672",
+                        "v": "Hand Physics Resources\/Materials\/Occluder.lsmat"
+                    },
+                    {
+                        "k": "29673",
+                        "v": "Hand Physics Resources\/Models\/Unit Box.mesh"
+                    },
+                    {
+                        "k": "29674",
+                        "v": "Hand Physics Resources\/Scripts\/RainOfObjects.js"
+                    },
+                    {
+                        "k": "29675",
+                        "v": "Hand Physics Resources\/Scripts\/HintTextUI.js"
+                    },
+                    {
+                        "k": "29676",
+                        "v": "Hand Physics Resources\/Fonts\/jellee_roman.ttf"
+                    },
+                    {
+                        "k": "29677",
+                        "v": "Hand Physics Resources\/Scripts\/ToggleColliderVisibility.js"
+                    },
+                    {
+                        "k": "29678",
+                        "v": "Hand_Physics__PUT_UNDER_MAIN_CAM.oprfb"
                     }
                 ],
                 "hashes": [
@@ -801,14 +1202,86 @@
                     {
                         "k": "29618",
                         "v": "18d2a0bf56bc85a6de12cdc774902519"
+                    },
+                    {
+                        "k": "29661",
+                        "v": "4edfa5e175131130324fe41ca59aa1c4"
+                    },
+                    {
+                        "k": "29662",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "29663",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "29664",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "29665",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "29666",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "29667",
+                        "v": "f423cd9f11dd4761d1b339e07ffb8081"
+                    },
+                    {
+                        "k": "29668",
+                        "v": "259dff8ba2318f23fb97d500d319ddee"
+                    },
+                    {
+                        "k": "29669",
+                        "v": "5e76f636b88320cadc9a64958ad0f461"
+                    },
+                    {
+                        "k": "29670",
+                        "v": "cf4c1373502a081f6015c748126b406a"
+                    },
+                    {
+                        "k": "29671",
+                        "v": "5e2cd6f5f44958306fa353332d8c8e31"
+                    },
+                    {
+                        "k": "29672",
+                        "v": "93491a808c704694be31c5693cb282dd"
+                    },
+                    {
+                        "k": "29673",
+                        "v": "bac61f0447b825d93b25eb020dfe0e56"
+                    },
+                    {
+                        "k": "29674",
+                        "v": "e4cbd722c11869ad8e6564d2fba18416"
+                    },
+                    {
+                        "k": "29675",
+                        "v": "bc7a61d0fd4fa8cf07ba9025536e897c"
+                    },
+                    {
+                        "k": "29676",
+                        "v": "09438cae5178fea614cfd0b16e719824"
+                    },
+                    {
+                        "k": "29677",
+                        "v": "8e5559c15a545b42c86b55d0d4b4fa97"
+                    },
+                    {
+                        "k": "29678",
+                        "v": "ccb619a7b91a9c6408e649ab812ed48f"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-10-04T15:26:45",
+                        "lastModified": "2022-10-10T20:56:37",
                         "name": "Public",
-                        "hash": "773f5adba2e7a993726187dd5f9d53f4",
+                        "hash": "2001b8c8c05c02fae8623c6b83921760",
                         "children": [
                             {
                                 "isFolder": "true",
@@ -862,6 +1335,166 @@
                             },
                             {
                                 "isFolder": "true",
+                                "lastModified": "2022-10-10T20:53:48",
+                                "name": "Hand Physics Resources",
+                                "hash": "f9df898b961173b4a0dd1b9dbb558c2d",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-10-10T20:53:48",
+                                        "name": "Data",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:53:48",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-10T20:53:48",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-10-10T20:56:37",
+                                        "name": "Fonts",
+                                        "hash": "0459529f1b7919024ddd6417c7d8daf4",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:53:48",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:36",
+                                                "name": "jellee_roman.ttf",
+                                                "hash": "09438cae5178fea614cfd0b16e719824",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-10-10T20:56:37",
+                                        "name": "Materials",
+                                        "hash": "3ab42a9cd844199e422216f041ce0782",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:53:48",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:37",
+                                                "name": "Occluder.lsmat",
+                                                "hash": "93491a808c704694be31c5693cb282dd",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-10-10T20:56:37",
+                                        "name": "Models",
+                                        "hash": "17e91468df9a2fd93ae8c1d2ba1801a7",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:53:48",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:36",
+                                                "name": "LeftHandMesh.mesh",
+                                                "hash": "5e2cd6f5f44958306fa353332d8c8e31",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:36",
+                                                "name": "RightHandMesh.mesh",
+                                                "hash": "cf4c1373502a081f6015c748126b406a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:36",
+                                                "name": "Unit Box.mesh",
+                                                "hash": "bac61f0447b825d93b25eb020dfe0e56",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2022-10-10T20:56:37",
+                                        "name": "Scripts",
+                                        "hash": "e840ade9677f1e3ed4d191de35d2cf43",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:53:48",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:36",
+                                                "name": "HandTracking.js",
+                                                "hash": "5e76f636b88320cadc9a64958ad0f461",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:36",
+                                                "name": "HintTextUI.js",
+                                                "hash": "bc7a61d0fd4fa8cf07ba9025536e897c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:36",
+                                                "name": "RainOfObjects.js",
+                                                "hash": "e4cbd722c11869ad8e6564d2fba18416",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2022-10-10T20:56:36",
+                                                "name": "ToggleColliderVisibility.js",
+                                                "hash": "8e5559c15a545b42c86b55d0d4b4fa97",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-10T20:56:36",
+                                "name": "Hand_Physics__PUT_UNDER_MAIN_CAM.oprfb",
+                                "hash": "ccb619a7b91a9c6408e649ab812ed48f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
                                 "lastModified": "2022-10-10T19:10:12",
                                 "name": "Materials",
                                 "hash": "cc758a6d69654c458d5d986e3e1f1780",
@@ -906,15 +1539,15 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-04T15:56:07",
+                                "lastModified": "2022-10-10T20:54:20",
                                 "name": "Prefabs",
-                                "hash": "3c5666e69c3faac2d6910b6d1040bdad",
+                                "hash": "ab729a4a7a74983e3bb0be1b209cb4b5",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-04T15:56:07",
+                                        "lastModified": "2022-10-10T20:54:20",
                                         "name": "bubble.oprfb",
-                                        "hash": "18d2a0bf56bc85a6de12cdc774902519",
+                                        "hash": "f423cd9f11dd4761d1b339e07ffb8081",
                                         "children": ""
                                     },
                                     {
@@ -971,10 +1604,17 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-03T02:10:55",
+                                "lastModified": "2022-10-10T20:55:07",
                                 "name": "Textures",
-                                "hash": "6507c3cb5745a68eb0fa565cf851c447",
+                                "hash": "9f19429d46a4cf3a7736c759d4d2894d",
                                 "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-10T20:32:26",
+                                        "name": "clipart1555590.png",
+                                        "hash": "259dff8ba2318f23fb97d500d319ddee",
+                                        "children": ""
+                                    },
                                     {
                                         "isFolder": "false",
                                         "lastModified": "2022-10-03T01:54:22",
@@ -1272,6 +1912,22 @@
                                 "additional": {
                                     "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
                                 }
+                            },
+                            {
+                                "name": "clipart1555590",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "37",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665460507537423:616928",
+                                "fileId": "42",
+                                "originalId": "43",
+                                "publicId": "29668",
+                                "source": "C:\/Users\/Shosh\/Downloads\/clipart1555590.png",
+                                "additional": {
+                                    "originHash": "259dff8ba2318f23fb97d500d319ddee"
+                                }
                             }
                         ]
                     },
@@ -1292,14 +1948,14 @@
                             {
                                 "name": "bubble",
                                 "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "35",
+                                "subtype": "0",
+                                "resourceId": "36",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1664924167521494:229452",
-                                "fileId": "39",
-                                "originalId": "40",
-                                "publicId": "29618",
+                                "uid": "1665460460140498:612179",
+                                "fileId": "41",
+                                "originalId": "46",
+                                "publicId": "29667",
                                 "source": "",
                                 "additional": ""
                             }
@@ -1437,12 +2093,368 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Hand Physics Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29661",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Data",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29662",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Right Hand Tracking Asset",
+                                        "type": "34",
+                                        "subtype": "0",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460596702016:624911",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Left Hand Tracking Asset",
+                                        "type": "34",
+                                        "subtype": "0",
+                                        "resourceId": "42",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460596706200:624920",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Fonts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29663",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "jellee_roman",
+                                        "type": "13",
+                                        "subtype": "0",
+                                        "resourceId": "50",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460597167993:625016",
+                                        "fileId": "59",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29676",
+                                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioXABuvdzWlRXj\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29664",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Occluder",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "46",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460596933041:624966",
+                                        "fileId": "53",
+                                        "originalId": "54",
+                                        "publicId": "29672",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Models",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29665",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "RightHandMesh",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "44",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460596767178:624941",
+                                        "fileId": "49",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29670",
+                                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioXABuvdzWlRXj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "boneData",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "LeftHandMesh",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "45",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460596894433:624954",
+                                        "fileId": "51",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29671",
+                                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioXABuvdzWlRXj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "boneData",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Unit Box",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "47",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460597123945:624986",
+                                        "fileId": "55",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29673",
+                                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioXABuvdzWlRXj\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29666",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "HandTracking",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "43",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460596722777:624929",
+                                        "fileId": "48",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29669",
+                                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioXABuvdzWlRXj\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "RainOfObjects",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "48",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460597138387:624996",
+                                        "fileId": "57",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29674",
+                                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioXABuvdzWlRXj\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "HintTextUI",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "49",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460597151110:625007",
+                                        "fileId": "58",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29675",
+                                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioXABuvdzWlRXj\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ToggleColliderVisibility",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "51",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1665460597192686:625025",
+                                        "fileId": "60",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29677",
+                                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioXABuvdzWlRXj\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hand_Physics__PUT_UNDER_MAIN_CAM",
+                        "type": "12",
+                        "subtype": "0",
+                        "resourceId": "38",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1665460596566395:624795",
+                        "fileId": "47",
+                        "originalId": "61",
+                        "publicId": "29678",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1665460684025889:630027"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
@@ -1482,29 +2494,377 @@
             "state": {
                 "objectToInfo": [
                     {
-                        "k": "1664922174683404:14905",
+                        "k": "1665460683979311:629715",
                         "v": {
-                            "prefab": "1664924167521494:229452",
+                            "prefab": "1665460596566395:624795",
                             "mapping": [
                                 {
-                                    "k": "1664922174683404:14905",
-                                    "v": "1664922174683404:14905"
+                                    "k": "1665460597201729:625106",
+                                    "v": "1665460683979311:629715"
                                 },
                                 {
-                                    "k": "1664922174687787:14915",
-                                    "v": "1664922174687787:14915"
+                                    "k": "1665460597201743:625107",
+                                    "v": "1665460683980163:629741"
                                 },
                                 {
-                                    "k": "1664922174702620:14927",
-                                    "v": "1664922174702620:14927"
+                                    "k": "1665460597201747:625108",
+                                    "v": "1665460683980405:629743"
                                 },
                                 {
-                                    "k": "1664922174709930:14932",
-                                    "v": "1664922174709930:14932"
+                                    "k": "1665460597201821:625112",
+                                    "v": "1665460683980874:629748"
                                 },
                                 {
-                                    "k": "1664922182789718:16169",
-                                    "v": "1664922182789718:16169"
+                                    "k": "1665460597201826:625113",
+                                    "v": "1665460683981116:629750"
+                                },
+                                {
+                                    "k": "1665460597201858:625114",
+                                    "v": "1665460683982109:629759"
+                                },
+                                {
+                                    "k": "1665460597201862:625115",
+                                    "v": "1665460683982362:629761"
+                                },
+                                {
+                                    "k": "1665460597201889:625116",
+                                    "v": "1665460683982588:629763"
+                                },
+                                {
+                                    "k": "1665460597201893:625117",
+                                    "v": "1665460683982802:629765"
+                                },
+                                {
+                                    "k": "1665460597201896:625118",
+                                    "v": "1665460683983013:629767"
+                                },
+                                {
+                                    "k": "1665460597201899:625119",
+                                    "v": "1665460683983233:629769"
+                                },
+                                {
+                                    "k": "1665460597201902:625120",
+                                    "v": "1665460683983453:629771"
+                                },
+                                {
+                                    "k": "1665460597201905:625121",
+                                    "v": "1665460683983662:629773"
+                                },
+                                {
+                                    "k": "1665460597201908:625122",
+                                    "v": "1665460683983875:629775"
+                                },
+                                {
+                                    "k": "1665460597201911:625123",
+                                    "v": "1665460683984087:629777"
+                                },
+                                {
+                                    "k": "1665460597201917:625124",
+                                    "v": "1665460683986278:629785"
+                                },
+                                {
+                                    "k": "1665460597201920:625125",
+                                    "v": "1665460683986563:629787"
+                                },
+                                {
+                                    "k": "1665460597201922:625126",
+                                    "v": "1665460683986791:629789"
+                                },
+                                {
+                                    "k": "1665460597201925:625127",
+                                    "v": "1665460683987006:629791"
+                                },
+                                {
+                                    "k": "1665460597201928:625128",
+                                    "v": "1665460683987227:629793"
+                                },
+                                {
+                                    "k": "1665460597201930:625129",
+                                    "v": "1665460683987444:629795"
+                                },
+                                {
+                                    "k": "1665460597201934:625130",
+                                    "v": "1665460683989531:629803"
+                                },
+                                {
+                                    "k": "1665460597201937:625131",
+                                    "v": "1665460683989798:629805"
+                                },
+                                {
+                                    "k": "1665460597201940:625132",
+                                    "v": "1665460683990012:629807"
+                                },
+                                {
+                                    "k": "1665460597201943:625133",
+                                    "v": "1665460683990231:629809"
+                                },
+                                {
+                                    "k": "1665460597201946:625134",
+                                    "v": "1665460683990456:629811"
+                                },
+                                {
+                                    "k": "1665460597201949:625135",
+                                    "v": "1665460683990663:629813"
+                                },
+                                {
+                                    "k": "1665460597201954:625136",
+                                    "v": "1665460683992908:629823"
+                                },
+                                {
+                                    "k": "1665460597201957:625137",
+                                    "v": "1665460683993190:629825"
+                                },
+                                {
+                                    "k": "1665460597201959:625138",
+                                    "v": "1665460683993416:629827"
+                                },
+                                {
+                                    "k": "1665460597201962:625139",
+                                    "v": "1665460683993634:629829"
+                                },
+                                {
+                                    "k": "1665460597201965:625140",
+                                    "v": "1665460683993846:629831"
+                                },
+                                {
+                                    "k": "1665460597201968:625141",
+                                    "v": "1665460683994062:629833"
+                                },
+                                {
+                                    "k": "1665460597201972:625142",
+                                    "v": "1665460683996240:629841"
+                                },
+                                {
+                                    "k": "1665460597201975:625143",
+                                    "v": "1665460683996480:629843"
+                                },
+                                {
+                                    "k": "1665460597201978:625144",
+                                    "v": "1665460683996695:629845"
+                                },
+                                {
+                                    "k": "1665460597201981:625145",
+                                    "v": "1665460683996918:629847"
+                                },
+                                {
+                                    "k": "1665460597201983:625146",
+                                    "v": "1665460683997131:629849"
+                                },
+                                {
+                                    "k": "1665460597201987:625147",
+                                    "v": "1665460683997343:629851"
+                                },
+                                {
+                                    "k": "1665460597201993:625148",
+                                    "v": "1665460684000184:629861"
+                                },
+                                {
+                                    "k": "1665460597201996:625149",
+                                    "v": "1665460684000420:629863"
+                                },
+                                {
+                                    "k": "1665460597202020:625150",
+                                    "v": "1665460684001354:629874"
+                                },
+                                {
+                                    "k": "1665460597202043:625154",
+                                    "v": "1665460684002930:629887"
+                                },
+                                {
+                                    "k": "1665460597202047:625155",
+                                    "v": "1665460684003177:629889"
+                                },
+                                {
+                                    "k": "1665460597202071:625156",
+                                    "v": "1665460684003875:629898"
+                                },
+                                {
+                                    "k": "1665460597202075:625157",
+                                    "v": "1665460684004117:629900"
+                                },
+                                {
+                                    "k": "1665460597202095:625158",
+                                    "v": "1665460684004345:629902"
+                                },
+                                {
+                                    "k": "1665460597202099:625159",
+                                    "v": "1665460684004574:629904"
+                                },
+                                {
+                                    "k": "1665460597202102:625160",
+                                    "v": "1665460684004791:629906"
+                                },
+                                {
+                                    "k": "1665460597202105:625161",
+                                    "v": "1665460684005000:629908"
+                                },
+                                {
+                                    "k": "1665460597202109:625162",
+                                    "v": "1665460684005226:629910"
+                                },
+                                {
+                                    "k": "1665460597202114:625163",
+                                    "v": "1665460684005439:629912"
+                                },
+                                {
+                                    "k": "1665460597202117:625164",
+                                    "v": "1665460684005718:629914"
+                                },
+                                {
+                                    "k": "1665460597202119:625165",
+                                    "v": "1665460684005956:629916"
+                                },
+                                {
+                                    "k": "1665460597202123:625166",
+                                    "v": "1665460684008232:629924"
+                                },
+                                {
+                                    "k": "1665460597202126:625167",
+                                    "v": "1665460684008471:629926"
+                                },
+                                {
+                                    "k": "1665460597202128:625168",
+                                    "v": "1665460684008697:629928"
+                                },
+                                {
+                                    "k": "1665460597202134:625169",
+                                    "v": "1665460684008908:629930"
+                                },
+                                {
+                                    "k": "1665460597202137:625170",
+                                    "v": "1665460684009120:629932"
+                                },
+                                {
+                                    "k": "1665460597202140:625171",
+                                    "v": "1665460684009327:629934"
+                                },
+                                {
+                                    "k": "1665460597202144:625172",
+                                    "v": "1665460684011485:629942"
+                                },
+                                {
+                                    "k": "1665460597202147:625173",
+                                    "v": "1665460684011720:629944"
+                                },
+                                {
+                                    "k": "1665460597202150:625174",
+                                    "v": "1665460684011934:629946"
+                                },
+                                {
+                                    "k": "1665460597202154:625175",
+                                    "v": "1665460684012143:629948"
+                                },
+                                {
+                                    "k": "1665460597202157:625176",
+                                    "v": "1665460684012359:629950"
+                                },
+                                {
+                                    "k": "1665460597202160:625177",
+                                    "v": "1665460684012571:629952"
+                                },
+                                {
+                                    "k": "1665460597202164:625178",
+                                    "v": "1665460684014741:629960"
+                                },
+                                {
+                                    "k": "1665460597202167:625179",
+                                    "v": "1665460684014973:629962"
+                                },
+                                {
+                                    "k": "1665460597202170:625180",
+                                    "v": "1665460684015190:629964"
+                                },
+                                {
+                                    "k": "1665460597202173:625181",
+                                    "v": "1665460684015406:629966"
+                                },
+                                {
+                                    "k": "1665460597202177:625182",
+                                    "v": "1665460684015638:629968"
+                                },
+                                {
+                                    "k": "1665460597202180:625183",
+                                    "v": "1665460684015845:629970"
+                                },
+                                {
+                                    "k": "1665460597202184:625184",
+                                    "v": "1665460684018052:629978"
+                                },
+                                {
+                                    "k": "1665460597202187:625185",
+                                    "v": "1665460684018284:629980"
+                                },
+                                {
+                                    "k": "1665460597202190:625186",
+                                    "v": "1665460684018524:629982"
+                                },
+                                {
+                                    "k": "1665460597202193:625187",
+                                    "v": "1665460684018748:629984"
+                                },
+                                {
+                                    "k": "1665460597202196:625188",
+                                    "v": "1665460684018965:629986"
+                                },
+                                {
+                                    "k": "1665460597202199:625189",
+                                    "v": "1665460684019178:629988"
+                                },
+                                {
+                                    "k": "1665460597202203:625190",
+                                    "v": "1665460684022312:629998"
+                                },
+                                {
+                                    "k": "1665460597202206:625191",
+                                    "v": "1665460684022611:630000"
+                                },
+                                {
+                                    "k": "1665460597202222:625192",
+                                    "v": "1665460684023617:630011"
+                                },
+                                {
+                                    "k": "1665460597202234:625196",
+                                    "v": "1665460684025889:630027"
+                                },
+                                {
+                                    "k": "1665460597202237:625197",
+                                    "v": "1665460684026129:630029"
+                                },
+                                {
+                                    "k": "1665460597202240:625198",
+                                    "v": "1665460684026352:630031"
+                                },
+                                {
+                                    "k": "1665460597202271:625199",
+                                    "v": "1665460684028593:630044"
+                                },
+                                {
+                                    "k": "1665460597202303:625201",
+                                    "v": "1665460684034768:630140"
+                                },
+                                {
+                                    "k": "1665460597202308:625202",
+                                    "v": "1665460684035109:630142"
+                                },
+                                {
+                                    "k": "1665460597202337:625204",
+                                    "v": "1665460684036146:630146"
+                                },
+                                {
+                                    "k": "1665460597202341:625205",
+                                    "v": "1665460684036396:630148"
+                                },
+                                {
+                                    "k": "1665460597202369:625210",
+                                    "v": "1665460684036729:630154"
+                                },
+                                {
+                                    "k": "1665460597202373:625211",
+                                    "v": "1665460684036969:630156"
+                                },
+                                {
+                                    "k": "1665460597202385:625212",
+                                    "v": "1665460684037890:630167"
                                 }
                             ]
                         }
@@ -1629,6 +2989,197 @@
                         "uncompressed_file": "26",
                         "compressed_files": ""
                     }
+                },
+                {
+                    "k": "1665460507537423:616928",
+                    "v": {
+                        "infos": {
+                            "originalSize": "501888",
+                            "compressedSize": "172281",
+                            "originalRAM": "1954400",
+                            "compressedRAM": "245000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "44",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "259dff8ba2318f23fb97d500d319ddee",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "45"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1665460596767178:624941",
+                    "v": {
+                        "infos": {
+                            "originalSize": "134603",
+                            "compressedSize": "134603",
+                            "originalRAM": "181308",
+                            "compressedRAM": "181308",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "boneData",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "50",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665460596894433:624954",
+                    "v": {
+                        "infos": {
+                            "originalSize": "133428",
+                            "compressedSize": "133428",
+                            "originalRAM": "180092",
+                            "compressedRAM": "180092",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "boneData",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "52",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665460597123945:624986",
+                    "v": {
+                        "infos": {
+                            "originalSize": "880",
+                            "compressedSize": "880",
+                            "originalRAM": "1224",
+                            "compressedRAM": "1224",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "56",
+                        "compressed_files": ""
+                    }
                 }
             ]
         },
@@ -1637,6 +3188,10 @@
                 {
                     "k": "1664787605238845:226212",
                     "v": "36Q2ODoZiZVRQGRzqPTfgy"
+                },
+                {
+                    "k": "1665460596566395:624795",
+                    "v": "AcbWuKZQpWVkTUPyAIFhg"
                 }
             ]
         }
