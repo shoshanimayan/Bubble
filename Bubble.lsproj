@@ -1,0 +1,1646 @@
+{
+    "lens_id": "",
+    "document_id": "xoNymDwe12cwoYkiWrVc",
+    "original_document_id": "xoNymDwe12cwoYkiWrVc",
+    "version": "29",
+    "lastChanged": "1664925052431",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "28",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "28",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Audio",
+                        "bubble"
+                    ],
+                    [
+                        "Audio",
+                        "pop"
+                    ],
+                    [
+                        "Box"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Materials",
+                        "Refraction"
+                    ],
+                    [
+                        "Materials",
+                        "Unlit"
+                    ],
+                    [
+                        "Physics",
+                        "Physics Matter"
+                    ],
+                    [
+                        "Physics",
+                        "Physics World Settings"
+                    ],
+                    [
+                        "Prefabs",
+                        "bubble"
+                    ],
+                    [
+                        "Scripts",
+                        "Behavior"
+                    ],
+                    [
+                        "Scripts",
+                        "BubbleCollision"
+                    ],
+                    [
+                        "Scripts",
+                        "BubbleShooter"
+                    ],
+                    [
+                        "Sphere"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "White"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Bubble",
+            "applicability": "2",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.126577213",
+                "y": "51.5066185"
+            }
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1664786875533094:133989",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1664787010486514:161594",
+                    "name": "Files\/File10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1664787262612336:183617",
+                    "name": "Files\/File13",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1664787262916110:183676",
+                    "name": "Files\/File15.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1664787507928317:216668",
+                    "name": "Files\/File17.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1664787605238845:226212",
+                    "name": "Files\/File18",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1664787797138172:242137",
+                    "name": "PhysicsMatter Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1664867876860971:43699",
+                    "name": "Files\/File22.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1664869053523261:150339",
+                    "name": "Files\/File25.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1664922390764553:33785",
+                    "name": "Files\/File28.wav",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1664922396881879:34896",
+                    "name": "Files\/File29.wav",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1664923476709132:135276",
+                    "name": "PhysicsWorldSettings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1664924167521494:229452",
+                    "name": "bubble",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1664786983261834:159428",
+                "4": "1664789982871341:423615",
+                "5": "1664867442156427:13364",
+                "6": "1664922174683404:14905"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.js"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.lsmat"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.js"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.js"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.mesh"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.mesh"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.wav"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.wav"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.oprfb"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.oprfb"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "29592",
+                        "v": "Sphere.mesh"
+                    },
+                    {
+                        "k": "29593",
+                        "v": "Scripts\/Behavior.js"
+                    },
+                    {
+                        "k": "29594",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "29595",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "29597",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "29598",
+                        "v": "Textures\/White.png"
+                    },
+                    {
+                        "k": "29599",
+                        "v": "Materials\/Unlit.lsmat"
+                    },
+                    {
+                        "k": "29600",
+                        "v": "Scripts\/BubbleShooter.js"
+                    },
+                    {
+                        "k": "29601",
+                        "v": "Materials\/Refraction.lsmat"
+                    },
+                    {
+                        "k": "29602",
+                        "v": "Prefabs"
+                    },
+                    {
+                        "k": "29604",
+                        "v": "Physics"
+                    },
+                    {
+                        "k": "29605",
+                        "v": "Scripts\/BubbleCollision.js"
+                    },
+                    {
+                        "k": "29608",
+                        "v": "Box.mesh"
+                    },
+                    {
+                        "k": "29609",
+                        "v": "Audio"
+                    },
+                    {
+                        "k": "29610",
+                        "v": "Audio\/bubble.wav"
+                    },
+                    {
+                        "k": "29611",
+                        "v": "Audio\/pop.wav"
+                    },
+                    {
+                        "k": "29618",
+                        "v": "Prefabs\/bubble.oprfb"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "29592",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "29593",
+                        "v": "324d936bf1b61fe7a9ad8efc0bd63807"
+                    },
+                    {
+                        "k": "29596",
+                        "v": "fd782f46499855d05923c84bad36be2a"
+                    },
+                    {
+                        "k": "29598",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "29599",
+                        "v": "6de67875f51a1736c1ae16d654e25212"
+                    },
+                    {
+                        "k": "29600",
+                        "v": "9f71c56b15a7dc8dc92dc8fb853cdb10"
+                    },
+                    {
+                        "k": "29601",
+                        "v": "926954a36ac3e8d4e91bb543df9bb06a"
+                    },
+                    {
+                        "k": "29603",
+                        "v": "cc3653d708b696cf4fb738878243cd43"
+                    },
+                    {
+                        "k": "29605",
+                        "v": "278496963ec0108c0b380da94abe776d"
+                    },
+                    {
+                        "k": "29606",
+                        "v": "36bef709f62838369d477edbe3e5f28a"
+                    },
+                    {
+                        "k": "29607",
+                        "v": "3b78d2be693be93e84e1d54fd4fe3d3d"
+                    },
+                    {
+                        "k": "29608",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "29610",
+                        "v": "2f30d33f48f1a37af34956c971a20495"
+                    },
+                    {
+                        "k": "29611",
+                        "v": "44bff3b3f08b3eb759a962ac5cebb6c9"
+                    },
+                    {
+                        "k": "29612",
+                        "v": "1f39a5bcbd870de782474b6090e9f859"
+                    },
+                    {
+                        "k": "29613",
+                        "v": "e975c727641f200f22540914184864b9"
+                    },
+                    {
+                        "k": "29614",
+                        "v": "4f168582cdcaa56beafa1c13ecb2273f"
+                    },
+                    {
+                        "k": "29615",
+                        "v": "e691c42ded65878ff61958edd5f7f063"
+                    },
+                    {
+                        "k": "29616",
+                        "v": "21719400f8351a68017bbd1a8fb37afb"
+                    },
+                    {
+                        "k": "29617",
+                        "v": "f4ac8f4c418b59d542f6950df50612e3"
+                    },
+                    {
+                        "k": "29618",
+                        "v": "18d2a0bf56bc85a6de12cdc774902519"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-10-04T15:26:45",
+                        "name": "Public",
+                        "hash": "1e9d51a94799710abcd816844c2fd4d4",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-10-04T15:26:36",
+                                "name": "Audio",
+                                "hash": "9ee2525e7af92157151c71cf6c49d342",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-04T15:25:41",
+                                        "name": "bubble.wav",
+                                        "hash": "2f30d33f48f1a37af34956c971a20495",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-04T15:26:14",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-04T15:25:37",
+                                        "name": "pop.wav",
+                                        "hash": "44bff3b3f08b3eb759a962ac5cebb6c9",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-04T00:37:33",
+                                "name": "Box.mesh",
+                                "hash": "621da74e06cc402b895f39376927a9d1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-09-05T21:40:54",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-09-05T21:40:54",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-10-03T02:10:55",
+                                "name": "Materials",
+                                "hash": "51de94b0e877423b7bf2d852dbbc4b53",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T01:51:50",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T02:00:05",
+                                        "name": "Refraction.lsmat",
+                                        "hash": "926954a36ac3e8d4e91bb543df9bb06a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T01:54:23",
+                                        "name": "Unlit.lsmat",
+                                        "hash": "6de67875f51a1736c1ae16d654e25212",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-10-03T02:10:55",
+                                "name": "Physics",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T02:03:00",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-10-04T15:56:07",
+                                "name": "Prefabs",
+                                "hash": "3c5666e69c3faac2d6910b6d1040bdad",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-04T15:56:07",
+                                        "name": "bubble.oprfb",
+                                        "hash": "18d2a0bf56bc85a6de12cdc774902519",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T02:02:29",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-10-04T00:18:11",
+                                "name": "Scripts",
+                                "hash": "28fdf47c30c39b605de9c84b81bfb274",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T01:50:10",
+                                        "name": "Behavior.js",
+                                        "hash": "324d936bf1b61fe7a9ad8efc0bd63807",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-04T16:08:47",
+                                        "name": "BubbleCollision.js",
+                                        "hash": "278496963ec0108c0b380da94abe776d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-04T16:10:03",
+                                        "name": "BubbleShooter.js",
+                                        "hash": "9f71c56b15a7dc8dc92dc8fb853cdb10",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T01:51:44",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-10-03T01:47:55",
+                                "name": "Sphere.mesh",
+                                "hash": "ffbce66d7c12d942b13208740e9d0059",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-10-03T02:10:55",
+                                "name": "Textures",
+                                "hash": "6507c3cb5745a68eb0fa565cf851c447",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T01:54:22",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-03T01:54:22",
+                                        "name": "White.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sphere",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1664786875533094:133989",
+                        "fileId": "8",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29592",
+                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiojwMSApfrBBgS\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": {
+                            "info": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "canBeDisabled": "false"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "color",
+                                        "format": "3",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    }
+                                ],
+                                "hasBlendShapes": "false"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29594",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "BubbleShooter",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664787507928317:216668",
+                                "fileId": "17",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29600",
+                                "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiojwMSApfrBBgS\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Behavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664787010486514:161594",
+                                "fileId": "10",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29593",
+                                "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiojwMSApfrBBgS\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "BubbleCollision",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664867876860971:43699",
+                                "fileId": "22",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29605",
+                                "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioJMEbnNnqNvJm\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29595",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Unlit",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664787262612336:183617",
+                                "fileId": "13",
+                                "originalId": "14",
+                                "publicId": "29599",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Refraction",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664787605238845:226212",
+                                "fileId": "18",
+                                "originalId": "19",
+                                "publicId": "29601",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29597",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "White",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664787262916110:183676",
+                                "fileId": "15",
+                                "originalId": "16",
+                                "publicId": "29598",
+                                "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudiojwMSApfrBBgS\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Prefabs",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29602",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "bubble",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "35",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664924167521494:229452",
+                                "fileId": "39",
+                                "originalId": "40",
+                                "publicId": "29618",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Physics",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29604",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Physics Matter",
+                                "type": "37",
+                                "subtype": "0",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664787797138172:242137",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Physics World Settings",
+                                "type": "36",
+                                "subtype": "0",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664923476709132:135276",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Box",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1664869053523261:150339",
+                        "fileId": "25",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29608",
+                        "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioJMEbnNnqNvJm\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": {
+                            "info": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "canBeDisabled": "false"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "color",
+                                        "format": "3",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    }
+                                ],
+                                "hasBlendShapes": "false"
+                            }
+                        }
+                    },
+                    {
+                        "name": "Audio",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29609",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "bubble",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "26",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664922390764553:33785",
+                                "fileId": "28",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29610",
+                                "source": "C:\/Users\/Shosh\/Downloads\/bubble.wav",
+                                "additional": ""
+                            },
+                            {
+                                "name": "pop",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "27",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1664922396881879:34896",
+                                "fileId": "29",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29611",
+                                "source": "C:\/Users\/Shosh\/Downloads\/pop.wav",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1664922174683404:14905",
+                        "v": {
+                            "prefab": "1664924167521494:229452",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1664922174683404:14905",
+                                    "v": "1664922174683404:14905"
+                                },
+                                {
+                                    "k": "1664922174687787:14915",
+                                    "v": "1664922174687787:14915"
+                                },
+                                {
+                                    "k": "1664922174702620:14927",
+                                    "v": "1664922174702620:14927"
+                                },
+                                {
+                                    "k": "1664922174709930:14932",
+                                    "v": "1664922174709930:14932"
+                                },
+                                {
+                                    "k": "1664922182789718:16169",
+                                    "v": "1664922182789718:16169"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1664786875533094:133989",
+                    "v": {
+                        "infos": {
+                            "originalSize": "13151",
+                            "compressedSize": "13151",
+                            "originalRAM": "27388",
+                            "compressedRAM": "27388",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "9",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1664869053523261:150339",
+                    "v": {
+                        "infos": {
+                            "originalSize": "794",
+                            "compressedSize": "794",
+                            "originalRAM": "1320",
+                            "compressedRAM": "1320",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "26",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1664787605238845:226212",
+                    "v": "36Q2ODoZiZVRQGRzqPTfgy"
+                }
+            ]
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.28.1"
+}
