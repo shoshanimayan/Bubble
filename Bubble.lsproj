@@ -3,7 +3,7 @@
     "document_id": "xoNymDwe12cwoYkiWrVc",
     "original_document_id": "xoNymDwe12cwoYkiWrVc",
     "version": "29",
-    "lastChanged": "1665460701627",
+    "lastChanged": "1665469749001",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -32,6 +32,9 @@
             "collapsedList": [
                 [
                     [
+                        "Audio"
+                    ],
+                    [
                         "Audio",
                         "bubble"
                     ],
@@ -54,6 +57,9 @@
                         "Specular"
                     ],
                     [
+                        "Hand Physics Resources"
+                    ],
+                    [
                         "Hand Physics Resources",
                         "Data",
                         "Left Hand Tracking Asset"
@@ -65,13 +71,25 @@
                     ],
                     [
                         "Hand Physics Resources",
+                        "Fonts"
+                    ],
+                    [
+                        "Hand Physics Resources",
                         "Fonts",
                         "jellee_roman"
                     ],
                     [
                         "Hand Physics Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Hand Physics Resources",
                         "Materials",
                         "Occluder"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Models"
                     ],
                     [
                         "Hand Physics Resources",
@@ -87,6 +105,10 @@
                         "Hand Physics Resources",
                         "Models",
                         "Unit Box"
+                    ],
+                    [
+                        "Hand Physics Resources",
+                        "Scripts"
                     ],
                     [
                         "Hand Physics Resources",
@@ -112,12 +134,33 @@
                         "Hand_Physics__PUT_UNDER_MAIN_CAM"
                     ],
                     [
+                        "Materials"
+                    ],
+                    [
                         "Materials",
                         "Refraction"
                     ],
                     [
                         "Materials",
                         "Unlit"
+                    ],
+                    [
+                        "Particles"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Emitter Material"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Mesh"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Texture"
+                    ],
+                    [
+                        "Physics"
                     ],
                     [
                         "Physics",
@@ -147,6 +190,9 @@
                         "Sphere"
                     ],
                     [
+                        "Textures"
+                    ],
+                    [
                         "Textures",
                         "White"
                     ],
@@ -160,7 +206,11 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1665460683979311:629715"
+                    "1517446348227994:84813",
+                    "1664786983261834:159428",
+                    "1665460683980874:629748",
+                    "1665460684002930:629887",
+                    "1665466977989431:80285"
                 ]
             ],
             "selectionSetList": ""
@@ -381,7 +431,7 @@
             }
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1665460596933041:624966"
+            "active_graph_asset": "1665466516644913:36173"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -530,14 +580,6 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "36",
-                    "uid": "1665460460140498:612179",
-                    "name": "bubble",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
                     "resId": "37",
                     "uid": "1665460507537423:616928",
                     "name": "Files\/File42.png",
@@ -656,6 +698,38 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1665466516600896:36163",
+                    "name": "Files\/File62.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1665466516644913:36173",
+                    "name": "Files\/File64",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1665466516867651:36197",
+                    "name": "Files\/File66.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1665468688226254:219404",
+                    "name": "bubble",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -758,10 +832,7 @@
                 "76": "1665460684019178:629988",
                 "77": "1665460684022312:629998",
                 "78": "1665460684025889:630027",
-                "79": "1665460684026129:630029",
-                "80": "1665460684034768:630140",
-                "81": "1665460684036146:630146",
-                "82": "1665460684036729:630154"
+                "79": "1665460684026129:630029"
             }
         },
         "LayerComponent": {
@@ -865,10 +936,6 @@
                     "v": "Files\/File29.wav"
                 },
                 {
-                    "k": "41",
-                    "v": "Files\/File41.oprfb"
-                },
-                {
                     "k": "42",
                     "v": "Files\/File42.pvr"
                 },
@@ -883,10 +950,6 @@
                 {
                     "k": "45",
                     "v": "Files\/File45.pvr"
-                },
-                {
-                    "k": "46",
-                    "v": "Files\/File46.oprfb"
                 },
                 {
                     "k": "47",
@@ -947,6 +1010,46 @@
                 {
                     "k": "61",
                     "v": "Files\/File61.oprfb"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.mesh"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.mesh"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.lsmat"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.png"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.png"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.oprfb"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.oprfb"
                 }
             ]
         },
@@ -1058,10 +1161,6 @@
                         "v": "Hand Physics Resources\/Scripts"
                     },
                     {
-                        "k": "29667",
-                        "v": "Prefabs\/bubble.oprfb"
-                    },
-                    {
                         "k": "29668",
                         "v": "Textures\/clipart1555590.png"
                     },
@@ -1104,6 +1203,26 @@
                     {
                         "k": "29678",
                         "v": "Hand_Physics__PUT_UNDER_MAIN_CAM.oprfb"
+                    },
+                    {
+                        "k": "29679",
+                        "v": "Particles"
+                    },
+                    {
+                        "k": "29680",
+                        "v": "Particles\/Particles Mesh.mesh"
+                    },
+                    {
+                        "k": "29681",
+                        "v": "Particles\/Particles Emitter Material.lsmat"
+                    },
+                    {
+                        "k": "29682",
+                        "v": "Particles\/Particles Texture.png"
+                    },
+                    {
+                        "k": "29684",
+                        "v": "Prefabs\/bubble.oprfb"
                     }
                 ],
                 "hashes": [
@@ -1153,7 +1272,7 @@
                     },
                     {
                         "k": "29605",
-                        "v": "46420ebb83b46409f64f9a7b964d2648"
+                        "v": "b21e8cbe175c06028724408993973928"
                     },
                     {
                         "k": "29606",
@@ -1261,7 +1380,7 @@
                     },
                     {
                         "k": "29675",
-                        "v": "bc7a61d0fd4fa8cf07ba9025536e897c"
+                        "v": "93a3bbddace23c22de94a9ac0e07235f"
                     },
                     {
                         "k": "29676",
@@ -1274,38 +1393,58 @@
                     {
                         "k": "29678",
                         "v": "ccb619a7b91a9c6408e649ab812ed48f"
+                    },
+                    {
+                        "k": "29680",
+                        "v": "9cf6125d8ce9ba874fe0ff27b21b2323"
+                    },
+                    {
+                        "k": "29681",
+                        "v": "44f571b58bf80084d06a8178bd2bc94f"
+                    },
+                    {
+                        "k": "29682",
+                        "v": "b4bcc9a3107b386b1f0b32d6c40455ef"
+                    },
+                    {
+                        "k": "29683",
+                        "v": "0b4ba445f477f11d85083c4996894b9f"
+                    },
+                    {
+                        "k": "29684",
+                        "v": "d6b55c4c569e938de2ef9ac41aaa8599"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2022-10-10T20:56:37",
+                        "lastModified": "2022-10-10T22:35:16",
                         "name": "Public",
-                        "hash": "2001b8c8c05c02fae8623c6b83921760",
+                        "hash": "ba972437b8a7277104a6311b6f47ea8c",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-04T15:26:36",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Audio",
                                 "hash": "9ee2525e7af92157151c71cf6c49d342",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-04T15:25:41",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "bubble.wav",
                                         "hash": "2f30d33f48f1a37af34956c971a20495",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-04T15:26:14",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-04T15:25:37",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "pop.wav",
                                         "hash": "44bff3b3f08b3eb759a962ac5cebb6c9",
                                         "children": ""
@@ -1314,40 +1453,40 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-04T00:37:33",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Box.mesh",
                                 "hash": "621da74e06cc402b895f39376927a9d1",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-09-05T21:40:54",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Echopark.hdr",
                                 "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-09-05T21:40:54",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-10T20:53:48",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Hand Physics Resources",
-                                "hash": "f9df898b961173b4a0dd1b9dbb558c2d",
+                                "hash": "0555453906e75c191475643d4e686ad5",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-10T20:53:48",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "Data",
                                         "hash": "59adb24ef3cdbe0297f05b395827453f",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:53:48",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1356,27 +1495,27 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-10T20:53:48",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-10T20:56:37",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "Fonts",
                                         "hash": "0459529f1b7919024ddd6417c7d8daf4",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:53:48",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:36",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "jellee_roman.ttf",
                                                 "hash": "09438cae5178fea614cfd0b16e719824",
                                                 "children": ""
@@ -1385,20 +1524,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-10T20:56:37",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "Materials",
                                         "hash": "3ab42a9cd844199e422216f041ce0782",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:53:48",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:37",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "Occluder.lsmat",
                                                 "hash": "93491a808c704694be31c5693cb282dd",
                                                 "children": ""
@@ -1407,34 +1546,34 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-10T20:56:37",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "Models",
                                         "hash": "17e91468df9a2fd93ae8c1d2ba1801a7",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:53:48",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:36",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "LeftHandMesh.mesh",
                                                 "hash": "5e2cd6f5f44958306fa353332d8c8e31",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:36",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "RightHandMesh.mesh",
                                                 "hash": "cf4c1373502a081f6015c748126b406a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:36",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "Unit Box.mesh",
                                                 "hash": "bac61f0447b825d93b25eb020dfe0e56",
                                                 "children": ""
@@ -1443,41 +1582,41 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2022-10-10T20:56:37",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "Scripts",
-                                        "hash": "e840ade9677f1e3ed4d191de35d2cf43",
+                                        "hash": "ff2b6aa61f8aaa407cbbbc732eeea534",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:53:48",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:36",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "HandTracking.js",
                                                 "hash": "5e76f636b88320cadc9a64958ad0f461",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:36",
+                                                "lastModified": "2022-10-10T23:10:49",
                                                 "name": "HintTextUI.js",
-                                                "hash": "bc7a61d0fd4fa8cf07ba9025536e897c",
+                                                "hash": "93a3bbddace23c22de94a9ac0e07235f",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:36",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "RainOfObjects.js",
                                                 "hash": "e4cbd722c11869ad8e6564d2fba18416",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2022-10-10T20:56:36",
+                                                "lastModified": "2022-10-10T22:31:04",
                                                 "name": "ToggleColliderVisibility.js",
                                                 "hash": "8e5559c15a545b42c86b55d0d4b4fa97",
                                                 "children": ""
@@ -1488,34 +1627,34 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-10T20:56:36",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Hand_Physics__PUT_UNDER_MAIN_CAM.oprfb",
                                 "hash": "ccb619a7b91a9c6408e649ab812ed48f",
                                 "children": ""
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-10T19:10:12",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Materials",
                                 "hash": "cc758a6d69654c458d5d986e3e1f1780",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-03T01:51:50",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-10T19:10:07",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "Refraction.lsmat",
                                         "hash": "41ea40a68305fb640712cc74add4f402",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-10T19:10:07",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "Unlit.lsmat",
                                         "hash": "3eba63d98500f0ef86d15565200611fc",
                                         "children": ""
@@ -1524,13 +1663,49 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-03T02:10:55",
+                                "lastModified": "2022-10-10T22:43:36",
+                                "name": "Particles",
+                                "hash": "c1b2441a3ea90eebe9f5d9990acfb4e1",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-10T22:35:16",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-10T22:39:47",
+                                        "name": "Particles Emitter Material.lsmat",
+                                        "hash": "44f571b58bf80084d06a8178bd2bc94f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-10T22:35:16",
+                                        "name": "Particles Mesh.mesh",
+                                        "hash": "9cf6125d8ce9ba874fe0ff27b21b2323",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-10-10T22:35:16",
+                                        "name": "Particles Texture.png",
+                                        "hash": "b4bcc9a3107b386b1f0b32d6c40455ef",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Physics",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-03T02:03:00",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1539,20 +1714,20 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-10T20:54:20",
+                                "lastModified": "2022-10-10T23:11:28",
                                 "name": "Prefabs",
-                                "hash": "ab729a4a7a74983e3bb0be1b209cb4b5",
+                                "hash": "417155a4eab0db4add90b5141512d6c1",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-10T20:54:20",
+                                        "lastModified": "2022-10-10T23:11:28",
                                         "name": "bubble.oprfb",
-                                        "hash": "f423cd9f11dd4761d1b339e07ffb8081",
+                                        "hash": "d6b55c4c569e938de2ef9ac41aaa8599",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-03T02:02:29",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1561,34 +1736,34 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-04T00:18:11",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Scripts",
-                                "hash": "c622327f612113f9da613d4e8f3ba01e",
+                                "hash": "7abe24eb03acdaa4f32376722114f6e4",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-03T01:50:10",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "Behavior.js",
                                         "hash": "324d936bf1b61fe7a9ad8efc0bd63807",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-04T16:20:40",
+                                        "lastModified": "2022-10-10T22:53:18",
                                         "name": "BubbleCollision.js",
-                                        "hash": "46420ebb83b46409f64f9a7b964d2648",
+                                        "hash": "b21e8cbe175c06028724408993973928",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-04T16:10:03",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "BubbleShooter.js",
                                         "hash": "9f71c56b15a7dc8dc92dc8fb853cdb10",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-03T01:51:44",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1597,34 +1772,34 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2022-10-03T01:47:55",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Sphere.mesh",
                                 "hash": "ffbce66d7c12d942b13208740e9d0059",
                                 "children": ""
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2022-10-10T20:55:07",
+                                "lastModified": "2022-10-10T22:31:04",
                                 "name": "Textures",
                                 "hash": "9f19429d46a4cf3a7736c759d4d2894d",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-10T20:32:26",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "clipart1555590.png",
                                         "hash": "259dff8ba2318f23fb97d500d319ddee",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-03T01:54:22",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2022-10-03T01:54:22",
+                                        "lastModified": "2022-10-10T22:31:04",
                                         "name": "White.png",
                                         "hash": "0c8dcfed2f50bb81ac5276a14967c005",
                                         "children": ""
@@ -1949,13 +2124,13 @@
                                 "name": "bubble",
                                 "type": "12",
                                 "subtype": "0",
-                                "resourceId": "36",
+                                "resourceId": "56",
                                 "dependency": "0",
                                 "hidden": "false",
-                                "uid": "1665460460140498:612179",
-                                "fileId": "41",
-                                "originalId": "46",
-                                "publicId": "29667",
+                                "uid": "1665468688226254:219404",
+                                "fileId": "72",
+                                "originalId": "73",
+                                "publicId": "29684",
                                 "source": "",
                                 "additional": ""
                             }
@@ -2445,16 +2620,113 @@
                         "publicId": "29678",
                         "source": "",
                         "additional": ""
+                    },
+                    {
+                        "name": "Particles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29679",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Particles Mesh",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "52",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665466516600896:36163",
+                                "fileId": "62",
+                                "originalId": "18446744073709551615",
+                                "publicId": "29680",
+                                "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaeCmwcVwrNsS\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": {
+                                    "originalAttribs": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "0",
+                                                "index": "0"
+                                            },
+                                            {
+                                                "semantic": "color",
+                                                "format": "2",
+                                                "index": "1"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "2",
+                                                "index": "2"
+                                            }
+                                        ]
+                                    },
+                                    "info": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "0",
+                                                "canBeDisabled": "false"
+                                            },
+                                            {
+                                                "semantic": "color",
+                                                "format": "2",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "2",
+                                                "canBeDisabled": "true"
+                                            }
+                                        ],
+                                        "hasBlendShapes": "false"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Particles Emitter Material",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "53",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665466516644913:36173",
+                                "fileId": "64",
+                                "originalId": "65",
+                                "publicId": "29681",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Particles Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "54",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1665466516867651:36197",
+                                "fileId": "66",
+                                "originalId": "67",
+                                "publicId": "29682",
+                                "source": "C:\/Users\/Shosh\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioaeCmwcVwrNsS\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "b4bcc9a3107b386b1f0b32d6c40455ef",
+                                    "subtype": "9"
+                                }
+                            }
+                        ]
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1665460684025889:630027"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
@@ -3179,6 +3451,80 @@
                         },
                         "uncompressed_file": "56",
                         "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665466516600896:36163",
+                    "v": {
+                        "infos": {
+                            "originalSize": "19744",
+                            "compressedSize": "19744",
+                            "originalRAM": "59940",
+                            "compressedRAM": "59940",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "0",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "2",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "2",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "63",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1665466516867651:36197",
+                    "v": {
+                        "infos": {
+                            "originalSize": "6343",
+                            "compressedSize": "2042",
+                            "originalRAM": "65536",
+                            "compressedRAM": "65536",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "1",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "68",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "b4bcc9a3107b386b1f0b32d6c40455ef",
+                                    "settings_hash": "1024"
+                                },
+                                "v": "69"
+                            }
+                        ]
                     }
                 }
             ]
